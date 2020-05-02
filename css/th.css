@@ -330,3 +330,29 @@
   border-left: 10px solid #5a5c69 !important;
   border-bottom: 10px solid #5a5c69 !important;
 }
+
+.bg-login-2 {
+  background-color: #858796;
+}
+
+.bg-login-2 .card {
+  margin-top: 5rem !important;
+}
+
+.bg-login-2 .bg-login-image {
+  background-color: #858796;
+  background-image: url("../img/task-hero-spartan.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 35rem;
+}
+
+.bg-login-2 .bg-login-image-2 {
+  background-color: #858796;
+  background-image: url("../img/taskHero-bg.png");
+  background-position: 0% 50%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 35rem;
+}
